@@ -9,10 +9,11 @@ int main (){
         else{
             printf("ALPHA\n");  
             if(a >= 'a' && a <= 'z'){
-                printf("IS CAPITAL");
+                
+                printf("IS SMALL");
             }
             else{
-                printf("IS SMALL");
+                printf("IS CAPITAL");
             }
         }
         
